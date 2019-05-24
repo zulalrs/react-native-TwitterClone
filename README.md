@@ -1,6 +1,6 @@
 # twitter_clone
 
-## Instalition
+## Installation
 ### 1- npm install
 ### 2- react-native link
 
