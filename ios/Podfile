@@ -11,4 +11,6 @@ target 'twitter_clone' do
     pod 'Firebase/Auth', '~> 5.20.1'
     pod 'Firebase/Firestore', '~> 5.20.1'
 
+  pod 'react-native-image-picker', :path => '../node_modules/react-native-image-picker'
+
 end
